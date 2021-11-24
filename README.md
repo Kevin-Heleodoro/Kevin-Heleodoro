@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that will build my skills.
 - 📫 How to reach me: linkedin.com/kevin-heleodoro
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kevin-heleodoro/kevin-heleodoro/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://github.com/Kevin-Heleodoro"><img src="https://github.com/kevin-heleodoro/kevin-heleodoro/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 
 
