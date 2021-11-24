@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that will build my skills.
 - 📫 How to reach me: linkedin.com/kevin-heleodoro
 
-<a href="https://github.com/Kevin-Heleodoro"><img src="https://github.com/Kevin-Heleodoro/Kevin-Heleodoro/blob/main/devcard.svg" width="400" alt="Kevin Heleodoro DevCard"/></a>
+<a href="https://app.daily.dev/GoldenSun"><img src="https://github.com/Kevin-Heleodoro/Kevin-Heleodoro/blob/main/devcard.svg" width="400" alt="Kevin Heleodoro DevCard"/></a>
 
 
 
