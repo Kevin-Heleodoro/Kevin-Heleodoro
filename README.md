@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Kevin Heleodoro. I am a new developer trying to find my place in the coding community. 
-- 👀 I’m interested in full stack development, dapps, blockchain technology, and the future of it all. 
-- 🌱 I’m currently learning front end web development.
-- 💞️ I’m looking to collaborate on anything that will build my skills.
-- 📫 How to reach me: linkedin.com/kevin-heleodoro
+My name is Kevin Heleodoro. I am a US Army veteran who found a passion for programming. I am focused on developing my skills as a front end developer,
+while also gaining an understanding of back end development. 
 
-<a href="https://app.daily.dev/GoldenSun"><img src="https://github.com/Kevin-Heleodoro/Kevin-Heleodoro/blob/main/devcard.svg" width="400" alt="Kevin Heleodoro DevCard"/></a>
+Currently, I am looking to build as many applications as I can to practice my programming skills and learn from those with more experience. 
 
+Please feel free to leave comments or issues on any of my repos; I love any and all constructive feedback.
+
+Reach me at: linkedin.com/kevin-heleodoro
 
 
 <!---
