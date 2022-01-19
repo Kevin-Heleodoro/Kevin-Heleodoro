@@ -5,7 +5,7 @@ Currently, I am looking to build as many applications as I can to practice my pr
 
 Please feel free to leave comments or issues on any of my repos; I love any and all constructive feedback.
 
-Reach me at: linkedin.com/kevin-heleodoro
+Reach me at: https://www.linkedin.com/in/kevin-heleodoro/ 
 
 
 <!---
