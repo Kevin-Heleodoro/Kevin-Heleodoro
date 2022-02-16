@@ -7,6 +7,8 @@ Please feel free to leave comments or issues on any of my repos; I love any and 
 
 Reach me at: https://www.linkedin.com/in/kevin-heleodoro/ 
 
+Other links: https://gitlab.com/kevin-heleodoro 
+
 
 <!---
 Kevin-Heleodoro/Kevin-Heleodoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
