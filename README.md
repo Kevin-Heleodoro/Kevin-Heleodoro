@@ -5,6 +5,15 @@ Currently, I am looking to build as many applications as I can to practice my pr
 
 Please feel free to leave comments or issues on any of my repos; I love any and all constructive feedback.
 
+```
+const Kevin = {
+  languages: [JavaScript, HTML, CSS],
+  frontend: [React, jQuery],
+  backend: [Express, Node],
+  database: [PostgreSQL, MySQL]
+}
+```
+
 Reach me at: https://www.linkedin.com/in/kevin-heleodoro/ 
 
 Other links: https://gitlab.com/kevin-heleodoro 
