@@ -1,4 +1,4 @@
-My name is Kevin Heleodoro. I am a US Army veteran who found a passion for programming. I am focused on developing my skills as a full stack developer. 
+My name is Kevin Heleodoro. I am a US Army veteran who found a passion for programming. I am focused on honing my skills as a full stack developer. 
 Currently, I am looking to build as many applications as I can to practice my programming skills and learn from those with more experience. 
 
 
