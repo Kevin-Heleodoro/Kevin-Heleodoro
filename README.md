@@ -130,11 +130,11 @@ Please feel free to leave comments or issues on any of my repos; I love any and 
 
 
 
-
+<!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-heleodoro&show_icons=true&locale=en&layout=compact" alt="kevin-heleodoro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-heleodoro&show_icons=true&locale=en" alt="kevin-heleodoro" /></p>
-
+--->
 
 
 
