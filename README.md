@@ -1,5 +1,5 @@
-My name is Kevin Heleodoro. I am a US Army veteran who found a passion for programming. I am focused on honing my skills as a full stack developer. 
-Currently, I am looking to build as many applications as I can to practice my programming skills and learn from those with more experience. 
+My name is Kevin Heleodoro. I am a husband, father, and US Army veteran who found a passion for programming. I am focused on honing my skills as a  software engineer and connecting with other who love the field. 
+Currently, I am pursuing my Masters in CS at Northeastern University. 
 
 
 Please feel free to leave comments or issues on any of my repos; I love any and all constructive feedback.
