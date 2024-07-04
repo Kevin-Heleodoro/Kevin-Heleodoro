@@ -71,28 +71,6 @@ I hold a Master's in Computer Science from Northeastern University, and my acade
     </a>
 </p>
 
-## Projects
-
-### Portfolio Tracker
-- **Technologies:** Java, JUnit, Swing, JCommon
-- Utilized test-driven development for responsive interfaces and abstracted code for expansion.
-
-### Cookbook Database
-- **Technologies:** React, Axios, Express, MySQL
-- Designed a secure SQL database with complex queries and front-end integration.
-
-### Job Tracking Board
-- **Technologies:** React, Styled Components, Axios, NGINX, JWT, Express, PostgreSQL, Docker, AWS
-- Used MVC design pattern and deployed microservices with Docker to AWS.
-
-### Expense Tracker
-- **Technologies:** React, Material UI, Axios, Express, PostgreSQL, Knex, Docker
-- Developed front and back-end components using Agile methodologies, created RESTful API for CRUD functionality.
-
-### Algorithm Visualizer
-- **Technologies:** React, Axios, Express, PostgreSQL, Knex
-- Built dynamic components for interactive content and documented the application thoroughly.
-
 ## Interests
 - Web Development
 - API Development
